@@ -23,14 +23,14 @@
 		<?php } ?>
 		
 			<div id="logo">
-			<h1>	<a href="/basic/index.php">Security Solution</a> </h1>
+			<h1>	<a href="/home/site/repository/basic/index.php">Security Solution</a> </h1>
 			</div>
 		
 			<nav><ul>
-				<li><a href="/basic/index.php">HOME</a></li>
-				<li><a href="/basic/company/welcome.php">COMPANY</a></li>
+				<li><a href="/home/site/repository/basic/index.php">HOME</a></li>
+				<li><a href="/home/site/repository/basic/company/welcome.php">COMPANY</a></li>
 				<li><a href="#">SOLUTIONS</a></li>
-				<li><a href="/basic/greet/list.php">CUSTOMER CENTER</a></li>
+				<li><a href="/home/site/repository/basic/greet/list.php">CUSTOMER CENTER</a></li>
 			</ul></nav>
 		</header>
 		<div class="clear"></div>
