@@ -1,7 +1,7 @@
 <? session_start();?>
 <html>
 	<head>
-	<link href="/basic/css/main.css" rel="stylesheet" type="text/css">
+	<link href="/home/site/repository/css/main.css" rel="stylesheet" type="text/css">
 	</head>
 	<body>
 	
